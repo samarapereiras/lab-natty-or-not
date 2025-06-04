@@ -1,4 +1,4 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Natural ou Fake Natty? Como Vencer na
 
 ## 🚀 Introdução
 
@@ -21,22 +21,37 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
+# Maternidade Atípica & Carreira: O Retorno Possível (Vídeo com Avatar Realista)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto consiste na criação de um vídeo informativo com um avatar realista gerado por Inteligência Artificial. O objetivo é oferecer **apoio e esperança** a mães atípicas, desmistificando a ideia de que a carreira precisa ser abandonada. A mensagem central é que, após a dedicação inicial, é **totalmente possível conciliar a maternidade atípica com a vida profissional**, redefinindo o sucesso e o bem-estar.
+
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+* **Plataforma de Criação de Avatar e Vídeo:** HeyGen.com
+* **IA para Geração de Voz (Text-to-Speech):** Voz padrão da Synthesia da HeyGen.com
+* **IA para Geração de Conteúdo (Roteiro):** ChatGPT 
+
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
+1.  **Conceituação e Roteiro:** O conteúdo foi definido para abordar a jornada da mãe atípica, desde a dedicação inicial até as estratégias de conciliação entre maternidade e carreira. O roteiro foi elaborado com um tom de apoio e encorajamento, com auxílio do ChatGPT para estruturar e refinar a linguagem.
+2.  **Seleção e Personalização do Avatar:** Escolhi um avatar na plataforma HeyGen.com que transmitisse empatia e naturalidade em suas expressões.
+3.  **Geração da Voz (TTS):** O roteiro foi inserido no sistema de Text-to-Speech da HeyGen.com. Dediquei tempo para selecionar uma voz em português que soasse o mais humano possível, ajustando a velocidade e as pausas para garantir um ritmo de fala natural e expressivo, crucial para a mensagem de apoio.
+4.  **Edição Final:** O vídeo foi compilado, adicionando legendas para acessibilidade. Ajustes foram feitos para otimizar a sincronização labial e a fluidez geral.
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado é um vídeo que busca inspirar e informar, mostrando que é possível redefinir o sucesso e encontrar o equilíbrio entre a maternidade atípica e as aspirações profissionais.
+
+![video_capa jpg](https://github.com/user-attachments/assets/9952b57d-df62-4200-a3e1-c0b4274e764f) https://drive.google.com/file/d/10c6MolR4gKxYmBAEZj2EeJrIdP3tzl9o/view?usp=sharing****
+
+*(Clique na imagem para assistir ao vídeo!)*
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
+O maior desafio neste projeto "Natty or Not" foi o de alcançar a máxima naturalidade tanto na expressão do avatar quanto na voz gerada por IA. A escolha criteriosa da plataforma, a experimentação com diferentes vozes e a atenção aos mínimos detalhes na entonação foram essenciais. Percebi que, embora as IAs generativas de vídeo e voz estejam avançando rapidamente, a curadoria humana e o ajuste fino são indispensáveis para transmitir emoção e autenticidade em temas tão sensíveis como a maternidade atípica.
+
 
 ### Exemplos e Insigths
 
